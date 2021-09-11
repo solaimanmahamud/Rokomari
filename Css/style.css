@@ -13,7 +13,7 @@ a {
     text-decoration: none;
 }
 
-ul ol {
+ul li {
     list-style: none;
 }
 
@@ -623,12 +623,6 @@ font-style: normal;
     padding: 25px 0;
     font-size: 13px;
 }
-
-.large_footer .large_footer ul {
-    list-style: circle;
-    margin-left: 10px;
-}
-
 
 .large_footer .lfone h3{
     margin: 15px -8;
